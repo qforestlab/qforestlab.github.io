@@ -7,6 +7,8 @@ project:
 
 website:
   title: "Q-ForestLab Manuals"
+  navbar:
+    left: []
 
 
 format:
